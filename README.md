@@ -16,21 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  
-![Visitor Count](https://profile-counter.glitch.me/icyfish332/count.svg)
 
-![Snake animation](https://raw.githubusercontent.com/IcyFish332/IcyFish332/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.github.com/IcyFish332/IcyFish332/output/github-contribution-grid-snake-dark.svg)
 
 </div>
-
-I’m Siyuan Lu, a **junior Ph.D. student in Artificial Intelligence**, with a current focus on:
-- **LLM-based Multi-Agent Systems (MAS):** Improving agent collaboration in large-scale systems.
-- **Self-Evolving Agents:** Exploring how agents can continuously reorganize and adapt themselves.
-
-🔭 **My long-term research goal:**
-Based on a well-modeled world model of the physical world 🌍, build a self-evolving agent system 🤖 which can continuously receive multi-modal feedback 📄🎨🎥 (e.g., text, audio, images, video, 3D data) from the world 🌏 and adapt to the changing environment 🌟.
-
-If you share similar interests, [feel free to collaborate!](#-contact) 😊
 
 ## 🔗 Featured Repositories
 
@@ -45,5 +34,4 @@ If you share similar interests, [feel free to collaborate!](#-contact) 😊
 
 ## 📫 Contact
 
-[![My Website](https://img.shields.io/badge/🤔%20My-Website-yellow)](https://siyuan.lu)
-[![Email Me](https://img.shields.io/badge/Email-me-red?logo=gmail)](mailto:lusiyuanzs+github@gmail.com)
+[![Email Me](https://img.shields.io/badge/Email-me-red?logo=gmail)](mailto:baibiying@icloud.com)
