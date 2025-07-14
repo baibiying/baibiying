@@ -30,8 +30,3 @@ Here are some ideas to get you started:
 <a href="https://github.com/LINs-lab/MASArena">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LINs-lab&repo=MASArena&theme=graywhite&bg_color=0,00FDD0,ABD4D4,A4B9D9,9B7DE2&hide_border=true" />
 </a>
-
-
-## 📫 Contact
-
-[![Email Me](https://img.shields.io/badge/Email-me-red?logo=gmail)](mailto:baibiying@icloud.com)
