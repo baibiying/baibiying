@@ -1,10 +1,21 @@
-# Hi there 👋
+<h1 align="center">Hi there, I'm Abby 👋</h1>
 
 <div align="center">
 
 ![Snake animation](https://raw.github.com/IcyFish332/IcyFish332/output/github-contribution-grid-snake-dark.svg)
 
 </div>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=baibiying&show_icons=true&theme=tokyonight&hide=prs" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baibiying&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=baibiying&theme=react-dark" />
+</p>
 
 ## 🔗 Featured Repositories
 
