@@ -6,7 +6,7 @@
 
 </div>
 
-[![baibiying's GitHub stats](https://github-readme-stats.vercel.app/api?username=baibiying)](https://github.com/baibiying/github-readme-stats)
+[![baibiying's GitHub stats](https://github-readme-stats.vercel.app/api?username=baibiying)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📊 GitHub Stats
 
