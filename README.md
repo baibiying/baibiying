@@ -6,10 +6,6 @@
 
 </div>
 
-[![baibiying's GitHub stats](https://github-readme-stats.vercel.app/api?username=baibiying)](https://github.com/anuraghazra/github-readme-stats)
-
-![baibiying's GitHub stats](https://github-readme-stats.vercel.app/api?username=baibiying)
-
 ## 📊 GitHub Stats
 
 <p align="center">
