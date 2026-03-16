@@ -25,7 +25,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=baibiying&repo=CompetitiveAnalysisAgent&theme=graywhite&bg_color=0,00FDD0,ABD4D4,A4B9D9,9B7DE2&hide_border=true" />
 </a>
 
-## 🔗 PROJECTS
+## 📂 PROJECTS
 ### MantleLuxury 
 <a href="https://github.com/baibiying/MantleLuxury">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=baibiying&repo=MantleLuxury&theme=graywhite&bg_color=0,00FDD0,ABD4D4,A4B9D9,9B7DE2&hide_border=true" />
