@@ -14,19 +14,38 @@
 </p>
 
 ## 🏆 HONORS
-### SheNicest Hackathon — Sappho Challenge Prize
+
+<table width="100%">
+  <tr>
+    <td><h3>SheNicest Hackathon — Sappho Challenge Prize</h3></td>
+    <td align="right" valign="bottom"><h3>Aug 2026</h3></td>
+  </tr>
+</table>
+
 Built LaLa Land, a Unity 3D multi-agent, open-ended emotional story game.
 <a href="https://github.com/baibiying/LALAGAME">
   <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=baibiying&repo=LALAGAME&theme=graywhite&bg_color=0,00FDD0,ABD4D4,A4B9D9,9B7DE2&hide_border=true" />
 </a>
 
-### Eazo Hackathon — Special Prize
+<table width="100%">
+  <tr>
+    <td><h3>Eazo Hackathon — Special Prize</h3></td>
+    <td align="right" valign="bottom"><h3>May 2026</h3></td>
+  </tr>
+</table>
+
 Built HoneyPush, an AI productivity app that plans work and supervises execution via on-device camera (face, posture, phone).
 <a href="https://github.com/baibiying/HoneyPush">
   <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=baibiying&repo=HoneyPush&theme=graywhite&bg_color=0,00FDD0,ABD4D4,A4B9D9,9B7DE2&hide_border=true" />
 </a>
 
-### AdventureX Hackathon — 1st Prize
+<table width="100%">
+  <tr>
+    <td><h3>AdventureX Hackathon — 1st Prize</h3></td>
+    <td align="right" valign="bottom"><h3>Jul 2025</h3></td>
+  </tr>
+</table>
+
 Built GoBuster, a cross-platform AI agent for photo capture and buying guidance.
 <a href="https://github.com/baibiying/GoBuster">
   <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=baibiying&repo=GoBuster&theme=graywhite&bg_color=0,00FDD0,ABD4D4,A4B9D9,9B7DE2&hide_border=true" />
