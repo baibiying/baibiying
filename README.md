@@ -13,21 +13,20 @@
   <img height="160em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=baibiying&layout=compact&theme=tokyonight" />
 </p>
 
-## 🏆 HONORS & AWARDS
-### Eazo Hackathon 
+## 🏆 HONORS
+### SheNicest Hackathon — Sappho Challenge Prize
+<a href="https://github.com/baibiying/LALAGAME">
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=baibiying&repo=LALAGAME&theme=graywhite&bg_color=0,00FDD0,ABD4D4,A4B9D9,9B7DE2&hide_border=true" />
+</a>
+
+### Eazo Hackathon — Special Prize
 <a href="https://github.com/baibiying/HoneyPush">
   <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=baibiying&repo=HoneyPush&theme=graywhite&bg_color=0,00FDD0,ABD4D4,A4B9D9,9B7DE2&hide_border=true" />
 </a>
 
-### AdventureX Hackathon 
+### AdventureX Hackathon — 1st Prize
 <a href="https://github.com/baibiying/GoBuster">
   <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=baibiying&repo=GoBuster&theme=graywhite&bg_color=0,00FDD0,ABD4D4,A4B9D9,9B7DE2&hide_border=true" />
-</a>
-<a href="https://github.com/baibiying/GoBusterWeb">
-  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=baibiying&repo=GoBusterWeb&theme=graywhite&bg_color=0,00FDD0,ABD4D4,A4B9D9,9B7DE2&hide_border=true" />
-</a>
-<a href="https://github.com/baibiying/CompetitiveAnalysisAgent">
-  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=baibiying&repo=CompetitiveAnalysisAgent&theme=graywhite&bg_color=0,00FDD0,ABD4D4,A4B9D9,9B7DE2&hide_border=true" />
 </a>
 
 ## 📂 PROJECTS
