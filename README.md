@@ -32,32 +32,3 @@ Built GoBuster, a cross-platform AI agent for photo capture and buying guidance.
   <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=baibiying&repo=GoBuster&theme=graywhite&bg_color=0,00FDD0,ABD4D4,A4B9D9,9B7DE2&hide_border=true" />
 </a>
 
-## 📂 PROJECTS
-### MantleLuxury 
-<a href="https://github.com/baibiying/MantleLuxury">
-  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=baibiying&repo=MantleLuxury&theme=graywhite&bg_color=0,00FDD0,ABD4D4,A4B9D9,9B7DE2&hide_border=true" />
-</a>
-
-### FlowPay 
-<a href="https://github.com/baibiying/FlowAI">
-  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=baibiying&repo=FlowAI&theme=graywhite&bg_color=0,00FDD0,ABD4D4,A4B9D9,9B7DE2&hide_border=true" />
-</a>
-<a href="https://github.com/baibiying/ETHShanghai-2025">
-  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=baibiying&repo=ETHShanghai-2025&theme=graywhite&bg_color=0,00FDD0,ABD4D4,A4B9D9,9B7DE2&hide_border=true" />
-</a>
-
-### ChatRoom 
-<a href="https://github.com/baibiying/ChatRoom">
-  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=baibiying&repo=ChatRoom&theme=graywhite&bg_color=0,00FDD0,ABD4D4,A4B9D9,9B7DE2&hide_border=true" />
-</a>
-
-### Kuakua 
-<a href="https://github.com/baibiying/kuakua">
-  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=baibiying&repo=kuakua&theme=graywhite&bg_color=0,00FDD0,ABD4D4,A4B9D9,9B7DE2&hide_border=true" />
-</a>
-
-### FakeLivestream 
-<a href="https://github.com/baibiying/FakeLivestream">
-  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=baibiying&repo=FakeLivestream&theme=graywhite&bg_color=0,00FDD0,ABD4D4,A4B9D9,9B7DE2&hide_border=true" />
-</a>
-
